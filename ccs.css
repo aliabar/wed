@@ -1,0 +1,183 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #e7dbdb !important;
+}
+/* stert nav */
+nav{
+    background-color: rgb(116, 59, 170);
+    color: white;
+}
+.a{
+    margin-left: 80px;
+}
+a svg{
+    width: 25px;
+    height: 25px;
+}
+.v .nav-item a{
+color: white;
+}
+
+.b{
+    margin-left: -450px;
+    
+}
+.cvd1{
+    display: none;
+}
+
+.mr{
+    position: absolute;
+    top: 0;
+    width: 72px;
+   overflow: hidden;
+   position: fixed;
+   
+}
+.co li a span{
+    display: none;
+
+}
+.co li a{
+    display: flex;
+    padding-left: 20px;
+   color: rgb(57, 57, 57);
+}
+
+
+.co li{
+     width: 100%;
+}
+.co li a:hover{
+    background-color: rgba(144, 88, 15, 0.546);
+    border-left: 5px solid rgb(116, 59, 170);
+    color: blueviolet;
+}
+.navbar-brand{
+    background-color: rgb(116, 59, 170);
+    height: 72px;
+}
+
+.co{
+    background-color: rgb(242, 236, 236);
+    gap: 17px;
+
+}
+
+.co li a svg{
+    width: 25px;
+    height: 25px;
+
+}
+a span{
+    margin-left: 25px;
+}
+.b{
+    font-size: 20px;
+}
+.cvd1{
+    display: none;
+}
+
+
+
+#clx{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0px;
+    background-color: #f8f9fa;
+    height: 100vh;
+    overflow: hidden;
+}
+.p{
+color: white;
+}
+.n{
+width: 100%;
+padding-left: 10px;
+padding-right: 5px;
+background-color: coral !important;
+height: 72px;
+}
+.sp{
+    margin-right: 6rem;
+}
+.n h5{
+    color: rgb(234, 223, 223);
+}
+.n a svg{
+    color: rgb(234, 223, 223) !important;
+}
+.h div svg{
+    color: white !important;
+    width: 26px;
+    height: 26px;
+    display: none;
+}
+.h2{
+    margin-bottom: 6rem !important;
+}
+#cs1{
+
+    width: calc(80% /3);
+    background-color: rgb(63, 60, 67);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cs2{
+    text-align: center;
+    width: calc(80% /3);
+    background-color:rgb(92, 191, 92);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cs3{
+    text-align: center;
+    width: calc(80% /3);
+    background-color: rgb(213, 82, 82);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cs11{
+    text-align: center;
+    width: calc(80% /3);
+    background-color: rgb(82, 178, 213);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cs22{
+    text-align: center;
+    width: calc(80% /3);
+    background-color: rgb(213, 82, 198);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cs33{
+    text-align: center;
+    width: calc(80% /3);
+    background-color: rgb(77, 112, 165);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bb{
+    border-left:10px solid black ;
+    
+}
